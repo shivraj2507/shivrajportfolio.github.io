@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shivrajportfolio.github.io/static/css/main.a33f1436.css",
+    "main.js": "/shivrajportfolio.github.io/static/js/main.6f615e4b.js",
+    "static/media/Web 3 Sherpa website.jpg": "/shivrajportfolio.github.io/static/media/Web 3 Sherpa website.5b45ae86ba1abc2cfbb6.jpg",
+    "static/media/about-me.jpg": "/shivrajportfolio.github.io/static/media/about-me.8a26b60cea7c7768ba11.jpg",
+    "static/media/p2p website.jpg": "/shivrajportfolio.github.io/static/media/p2p website.ee01db0ec7118688b47d.jpg",
+    "static/media/coffee website.jpg": "/shivrajportfolio.github.io/static/media/coffee website.9039cc377845fae1db0c.jpg",
+    "static/media/Rikeza.png": "/shivrajportfolio.github.io/static/media/Rikeza.d7336b7bc4251a978b10.png",
+    "static/media/RIK academy.jpg": "/shivrajportfolio.github.io/static/media/RIK academy.762646e1dc9fe2c0fd6b.jpg",
+    "static/media/hero-image.png": "/shivrajportfolio.github.io/static/media/hero-image.46cff252f03f6d21695f.png",
+    "static/media/contact-me.png": "/shivrajportfolio.github.io/static/media/contact-me.f5a39141bed96e4fff71.png",
+    "static/media/contact-img.png": "/shivrajportfolio.github.io/static/media/contact-img.b3930e1c2129a632b16d.png",
+    "static/media/shivraj.png": "/shivrajportfolio.github.io/static/media/shivraj.f01d56c61d0b95ee7bbe.png",
+    "index.html": "/shivrajportfolio.github.io/index.html",
+    "main.a33f1436.css.map": "/shivrajportfolio.github.io/static/css/main.a33f1436.css.map",
+    "main.6f615e4b.js.map": "/shivrajportfolio.github.io/static/js/main.6f615e4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a33f1436.css",
+    "static/js/main.6f615e4b.js"
+  ]
+}
